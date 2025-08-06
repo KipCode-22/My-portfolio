@@ -9,6 +9,7 @@ const aboutSections = [
         icon:<User className="text-orange-500 scale-150"/> ,   
         description: "Etudiante en informatique Fondamantale, avec une formation initiale en mathématiques, statistiques,et informatique. Ce parcours m'a permis de développer une double compétence en raisonnement mathématique et en outils numériques, que je mets aujourd'hui au service de l'analyse de données.",
     },
+    
     {
         id:2,
         icon:<Code className="text-orange-500 scale-150"/> ,
