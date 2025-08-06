@@ -6,6 +6,7 @@ import imgCSS from "../assets/techno/css.png"
 import imgJS from "../assets/techno/js.png"
 import imgREACT from "../assets/techno/react.png"
 import imgTAILWIND from "../assets/techno/tailwind.png"
+import imgTYPE from "../assets/techno/typescript.svg"
 
 
 const skills = [
@@ -15,6 +16,8 @@ const skills = [
     { id: 3, name: "JavaScript", image: imgJS},
     { id: 4, name: "React", image: imgREACT},
     { id: 5, name: "Tailwind CSS", image: imgTAILWIND},
+    { id: 6, name: "TypeScript", image: imgTYPE},
+
       
        
 ]

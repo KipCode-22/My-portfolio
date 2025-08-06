@@ -1,6 +1,6 @@
 import Title from "./Title"
 import img from "../assets/image/img3.png"
-import { BarChart, Code, User, Section } from "lucide-react"
+import { BarChart, Code, User } from "lucide-react"
 
 
 const aboutSections = [
