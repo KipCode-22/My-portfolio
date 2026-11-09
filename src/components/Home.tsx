@@ -20,7 +20,7 @@ const Home = () =>{
                     vers le métier de <b>Data Analyst </b> . Bonne visite !
                 </p>
 
-                <a href="https://inespatricia648@gmail.com" className="btn bg-orange-500 text-black border-none hover:bg-orange-600  md:w-fit " >
+                <a href="inespatricia648@gmail.com" className="btn bg-orange-500 text-black border-none hover:bg-orange-600  md:w-fit " >
                    <Mail className="w-5 h-5"/>
                    Contactez-moi
                 </a>
